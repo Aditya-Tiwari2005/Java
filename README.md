@@ -28,10 +28,14 @@ Compile the Java file.
 Run BankingManagementsystem.java.
 Follow the options displayed in the console.
 Project Structure
+
+
 Java/
 │
 └── BankingManagementsystem.java
 └── README.md
+
+
 Future Improvements
 Multiple bank accounts
 Money transfer between accounts
